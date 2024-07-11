@@ -1,2 +1,2 @@
 # FullstackAssessment
- Full Stack NestJS Vue Postgresql DB
+Node NestJS Vue Postgresql DB
