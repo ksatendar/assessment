@@ -1,2 +1,2 @@
-# assessment
-Node, Nest, Vue, Typeorm, Postgresql
+# FullstackAssessment
+ Full Stack NestJS Vue Postgresql DB
